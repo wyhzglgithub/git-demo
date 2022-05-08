@@ -6,3 +6,4 @@ git 使用   master test
 git 使用   hot-fix test
 github add
 idea branch add
+idea branch add second
