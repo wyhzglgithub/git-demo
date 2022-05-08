@@ -7,3 +7,4 @@ git 使用   hot-fix test
 github add
 idea branch add
 idea branch add second
+idea branch add 3
